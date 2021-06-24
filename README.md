@@ -9,6 +9,18 @@
 
 This code is the frontend portion of a shopping application for college project.
 
+## Installation
+
+```colsole
+ubuntu@ip:~$ git clone https://github.com/varunjha/Best-Buy-Frontend.git
+
+ubuntu@ip:~$ npm install
+
+ubuntu@ip:~$ npm start
+```
+
+Look at the [Available Scripts](#Available Scripts) section for further details.
+
 ## Methods
 
 As we are using **Django Rest-API** to connect between **Frontend** and **Backend**, so several methods which are 
