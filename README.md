@@ -9,6 +9,19 @@
 
 This code is the frontend portion of a shopping application for college project.
 
+[comment]: <> (## Screenshots)
+
+[comment]: <> (![App Screenshot]&#40;https://via.placeholder.com/468x300?text=App+Screenshot+Here&#41;)
+
+## Tech Stack
+
+**Client:** `React`
+
+**Server:** `Django Rest-API` in `Docker` Container
+
+**Database:** `PostgreSQL`
+
+
 ## Installation
 
 ```colsole
@@ -34,7 +47,7 @@ being used as follows:
 | **PUT** | **/api/products/update/15** |
 | **DELETE** | **/api/products/delete/15** |
 
-**Features**
+## Features
 
 - Product
     - 5-Star rating system
