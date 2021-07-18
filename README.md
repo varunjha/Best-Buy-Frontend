@@ -17,7 +17,7 @@ This code is the frontend portion of a shopping application for college project.
 
 **Client:** `React`
 
-**Server:** `Django Rest-API` in `Docker` Container
+**Server:** `Django Rest-API`
 
 **Database:** `PostgreSQL`
 
