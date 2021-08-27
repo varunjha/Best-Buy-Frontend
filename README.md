@@ -21,6 +21,8 @@ This code is the frontend portion of a shopping application for college project.
 
 **Database:** `PostgreSQL`
 
+**Theme:** `Lux` from [Bootstrap Watch](https://bootswatch.com/lux/)
+
 
 ## Installation
 
@@ -98,6 +100,8 @@ ubuntu@ip:~$ npx create-react-app frontend
 ubuntu@ip:~/frontend$ npm install react-router-dom react-router-bootstrap
 
 ubuntu@ip:~/frontend$ npm install axios
+
+ubuntu@ip:~/frontend$ npm install react-bootstrap
 
 ubuntu@ip:~/frontend$ 
 
