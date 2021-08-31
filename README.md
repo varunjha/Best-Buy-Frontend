@@ -103,6 +103,10 @@ ubuntu@ip:~/frontend$ npm install axios
 
 ubuntu@ip:~/frontend$ npm install react-bootstrap
 
+ubuntu@ip:~/frontend$ npm install redux react-redux redux-thunk redux-devtools-extension 
+
+ubuntu@ip:~/frontend$ 
+
 ubuntu@ip:~/frontend$ 
 
 ubuntu@ip:~/frontend$ 
