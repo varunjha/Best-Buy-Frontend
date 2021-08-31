@@ -36,6 +36,7 @@ export const listProducts = (keyword = '') => async (dispatch) => {
     try {
         dispatch({ type: PRODUCT_LIST_REQUEST })
 
+        // TODO : demo (api=>ap):- for message
         const { data } = await axios.get(`/api/products${keyword}`)
 
         dispatch({
